@@ -9,6 +9,6 @@ public class DemoController {
 
     @RequestMapping("test")
     public String test(){
-        return "success12321425";
+        return "test jenkins  success";
     }
 }
